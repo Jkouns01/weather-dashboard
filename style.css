@@ -1,7 +1,10 @@
-ul {
-    list-style: none;
 
+#headerinfo {
+font-family: 'Shadows Into Light', sans-serif;
+color: white;
+font-size: 25px;
 }
+
 
 li {
     border-bottom: 1px solid lightgray;
@@ -14,16 +17,6 @@ li {
 }
 
 img {
-    width: 100px;
-    height: 100px;
-}
-
-.fiveDayColor {
-    padding: 20px;
-    background-color: #1E90FF;
-    color: white;
-    float: left;
-    margin: 10px;
-    border: 1px solid lightgray;
-
+    width: 50px;
+    height: 50px;
 }
