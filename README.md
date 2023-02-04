@@ -19,3 +19,5 @@ WHEN I view future weather conditions for that city</p>
  I like the little weather icons as well which were pulled from the open weather source.
   <br> 
  I did not get to add in the 5 day weather portion and hope to do so here in the future. 
+
+ I alo Tried to add a Thank you note to pop up after you entered a city but that did not work like I hoped so it is added into the weather content.
