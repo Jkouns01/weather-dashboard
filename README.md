@@ -12,8 +12,10 @@ THEN I am presented with the city name, the date, an icon representation of weat
  <br>
 WHEN I view future weather conditions for that city</p>
 
+
 <h2> So what did I learn? </h2>
-<p> In this assignment I had some issues but throughly enjoyed this project because it is acually apllicable to my day to day use!
+<p> https://jkouns01.github.io/weather-dashboard/ 
+In this assignment I had some issues but throughly enjoyed this project because it is acually apllicable to my day to day use!
  <br>
  I was able to succesfully use a 3rd party api that gathers weather data which you can then access. I also used some google fonts to change up the header. 
  I like the little weather icons as well which were pulled from the open weather source.
